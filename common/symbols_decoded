@@ -1,0 +1,12 @@
+                 U __cxa_atexit
+                 U __dso_handle
+                 U _GLOBAL_OFFSET_TABLE_
+000000000000009c t _GLOBAL__sub_I_main
+0000000000000000 T main
+                 U newtonsquareroot(int, int)
+000000000000004a t __static_initialization_and_destruction_0(int, int)
+                 U std::ostream::operator<<(double)
+                 U std::ios_base::Init::Init()
+                 U std::ios_base::Init::~Init()
+                 U std::cout
+0000000000000000 b std::__ioinit

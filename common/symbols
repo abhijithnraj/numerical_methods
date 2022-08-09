@@ -1,0 +1,12 @@
+                 U __cxa_atexit
+                 U __dso_handle
+                 U _GLOBAL_OFFSET_TABLE_
+000000000000009c t _GLOBAL__sub_I_main
+0000000000000000 T main
+                 U _Z16newtonsquarerootii
+000000000000004a t _Z41__static_initialization_and_destruction_0ii
+                 U _ZNSolsEd
+                 U _ZNSt8ios_base4InitC1Ev
+                 U _ZNSt8ios_base4InitD1Ev
+                 U _ZSt4cout
+0000000000000000 b _ZStL8__ioinit
