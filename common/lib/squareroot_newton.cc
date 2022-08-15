@@ -3,6 +3,9 @@ using namespace std;
 
 int newtonsquareroot(int n, int approx)
 {
+    if(n==1){
+        return 1;
+    }
     int X = n / 2;
     double root;
 

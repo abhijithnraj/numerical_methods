@@ -1,5 +1,7 @@
 cmake_minimum_required(VERSION 3.10)
 
+enable_testing()
+
 option(ENABLE_EXAMPLES "To enable compiling with examples" OFF)
 
 # set the project name
