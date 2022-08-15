@@ -1,3 +1,6 @@
+#numerical_methods 
+common/build
+
 # vs code
 .vscode/*
 # Prerequisites
